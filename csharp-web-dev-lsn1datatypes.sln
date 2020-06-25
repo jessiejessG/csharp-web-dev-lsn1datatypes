@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreOnNumericTypes", "MoreO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{0E90E7D7-8F01-4375-B7BF-BC3383735ED6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter2-Studio_AreaOfACircle", "Chapter2-Studio_AreaOfACircle\Chapter2-Studio_AreaOfACircle.csproj", "{8E064190-66FF-4E02-A948-79A4320B92DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{0E90E7D7-8F01-4375-B7BF-BC3383735ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E90E7D7-8F01-4375-B7BF-BC3383735ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E90E7D7-8F01-4375-B7BF-BC3383735ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E064190-66FF-4E02-A948-79A4320B92DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E064190-66FF-4E02-A948-79A4320B92DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E064190-66FF-4E02-A948-79A4320B92DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E064190-66FF-4E02-A948-79A4320B92DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
